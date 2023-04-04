@@ -1,0 +1,9 @@
+body {
+    background-color: #2A3132;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.project {
+    float: left;
+}
